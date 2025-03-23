@@ -20,7 +20,7 @@ This project analyzes sales data to identify trends, top-performing products, an
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/sales-data-analysis.git
+   git clone https://github.com/valerio03/sales-data-analysis.git
    cd sales-data-analysis
    ```
 2. Install dependencies:
